@@ -2,5 +2,7 @@
 ## Liam Callahan
 | Project Name | Description |
 |------------------|------------------|
-| [Adventure Game][(https://github.com/Liamade/CS121FallSemester/tree/cb91dd992a3ea6c346715483a4a5287d8432d6ec/src/Project01)](https://github.com/Liamade/CS120---SpringSemester/blob/a6e10a3dadeb497c28d8eb07b443bf266aff9061/lmcallahan_adventure%20game.py) | Simple (Y/N) Game | 
-| [Adventure Editor][(https://github.com/Liamade/CS121FallSemester/tree/cb91dd992a3ea6c346715483a4a5287d8432d6ec/src/Project02)](https://github.com/Liamade/CS120---SpringSemester/blob/a6e10a3dadeb497c28d8eb07b443bf266aff9061/lmcallahan_adventure_editor.py)    | Sime Game Creator | 
+| [Adventure Game](https://github.com/Liamade/CS120---SpringSemester/blob/main/lmcallahan_adventure_editor.py) | Simple (Y/N) Game | 
+| [Adventure Editor](https://github.com/Liamade/CS120---SpringSemester/blob/main/lmcallahan_adventure%20game.py)    | Simple Game Creator | 
+| [Number Guesser](https://github.com/Liamade/CS120---SpringSemester/blob/main/lmcallahan_blackbelt.py)    | Guess Random Number Game |
+| [Number Guesser]()    | Guess Random Number Game |
